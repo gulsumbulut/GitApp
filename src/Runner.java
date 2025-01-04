@@ -27,8 +27,14 @@ public class Runner {
 
 
 
+        // git reset --hard (hashkodu)
+        // versiyonları tamamen iptal eder yani siler. Gerçekten silinecek ve kullanılmayacak kod ve
+        // versiyonlar için kullanılmalıdır. Kullanımına dikkat etmek gerekir.
 
 
+        //yeni kodlar ekliyoruz
+        //versiyon 7
+        System.out.println("Değişiklik 7");
 
     }
 }
