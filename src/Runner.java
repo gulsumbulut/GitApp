@@ -17,6 +17,18 @@ public class Runner {
         System.out.println("Değişiklik 5");
 
 
+        //versiyon 6
+        System.out.println("Değişiklik 6");
+
+        //git checkout : versiyonlar arası kod değişimlerini izlemek yada şuan kodladığımız versiyon
+        //hata verdiği için bir önceki versiyonlara gitmek isteyebiliriz bunun için git checkout kullanılır
+        // eski bir versiyona geçmek istediğimizdeyse o versiyonu git commit le yeni bir versiyonmuşçasına
+        //eklemeliyiz
+
+
+
+
+
 
     }
 }
