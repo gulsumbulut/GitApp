@@ -36,5 +36,7 @@ public class Runner {
         //versiyon 7
         System.out.println("Değişiklik 7");
 
+        //githubda değişiklik yaptım
+
     }
 }
